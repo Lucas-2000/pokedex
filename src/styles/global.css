@@ -1,0 +1,23 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #5f4b8bff;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
